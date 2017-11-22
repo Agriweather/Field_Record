@@ -7,4 +7,4 @@
 - 作物種類
 - 工作方式
 
-> AgriWeather 阿龜微氣候天眼通
+> AgriWeather 阿龜微氣候天眼通 CC-By-NC
